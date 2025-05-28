@@ -19,8 +19,8 @@
 
 ## 📌 Pinned Repositories (These projects are small projects posted publicly on my github )
 
-- [Ecosystem-Simulation](https://github.com/Letuananh1207/Ecosystem-Simulation) - BTL OOP 2023.2 - Java, JavaFX.
-- [Luping-Dict](https://github.com/hasonsk/Luping-app) - Ứng dụng kinh doanh đầu tiên của tôi (Leader)
+- [Ecosystem-Simulation](https://github.com/Letuananh1207/Ecosystem-Simulation) - BTL OOP 2024.1 - Java, JavaFX.
+- [Luping-Dict](https://github.com/hasonsk/Luping-app) - Ứng dụng kinh doanh thực tế đầu tiên của tôi.
 - [Chat-app](https://github.com/Letuananh1207/Chat-app-fullstack) - Ứng dụng sử dụng Websocket đầu tiên của tôi.
 - [Spam-Message-Classification](https://github.com/Letuananh1207/Nhap-mon-AI) - Dự án nhập môn Khoa học dữ liệu.
 
