@@ -25,3 +25,13 @@
 - [Spam-Message-Classification](https://github.com/Letuananh1207/Nhap-mon-AI) - Dự án nhập môn Khoa học dữ liệu.
 
 ## 📊 GitHub Profile Stats
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Letuananh1207&show_icons=true&locale=en&layout=compact" alt="Letuananh1207" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Letuananh1207" alt="Letuananh1207" />
+</p>
+
+
